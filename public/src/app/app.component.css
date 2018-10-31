@@ -1,0 +1,21 @@
+.formContainer{
+	float:left;
+	width:76%;
+	margin: auto;
+	margin-bottom: 30px;
+}
+.HeaderTitle h1{
+	font-family: 'Abril Fatface', cursive ;
+	margin: 50px auto;
+	width: 20%;
+
+}
+.tableTitle h1{
+	font-family: 'Abril Fatface', cursive;
+    margin: 30px auto;
+    width: 35%;
+
+}
+span {
+	font-weight: bold;
+}
