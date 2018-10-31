@@ -7,5 +7,5 @@
 - open public folder 
 - open another CLI
 - npm start/ ng serve
-- open 'localhost:http://localhost:4200/' for UI
+- open 'http://localhost:4200/' for UI
 - open 'http://localhost:3001/api/seedData' for updated JSON
