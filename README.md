@@ -1,5 +1,4 @@
-# node_assessment_lbg
-
+# PharmEasy Application Data
 ## Steps to setup the project
 
 - git clone https://github.com/charan225/pharmacy-application-assignment.git
